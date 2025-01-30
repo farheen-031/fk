@@ -1,0 +1,31 @@
+P/N: H-046-007060-00 Rev 4.0
+15
+BeneVision TD60 Quick Reference Guide
+Unpair a TD60 with a BP10 via the TD60
+Option 1:
+     1.   Press  to enter the main menu.
+ 2.   Tap Wireles Modules .
+ 3.   Select the device you wish to disconnect from the TD60 from the       
+           devices list under Devices and tap Disconnect . 
+        The connected device is disconnected from the TD60.
+Option 2:
+     1.   Press  to enter the main menu.
+ 2.   Tap Wireles Modules .
+ 3.   Disable MPAN .
+Unpair a TD60 with a BP10 via the BP10
+     1.   Press the MPAN key on the BP10.
+ 2.   Select  Yes  when the prompt message “A re you sure you want to close  
+           MPAN and unpair BP10 ?” appears.
+Caution:  Before moving a TD60 or BP10 to another area, unpair them first.
+Caution: Before admitting a new patient at a BP10, you need to unpair it with a 
+TD60 first.
+TECHNICAL ALARMS
+Alarm Reset
+To silence an alarm for the duration of the alarm  on the TD60 and the CMS:
+ 1.  Press  to enter the main menu.
+ 2.  Tap Alarm Reset  from the Commands  section.
+OR
+ When Alarm Reset is configured as a Quick key, you can  
+ 1.  Swipe up your finger at the bottom of the main screen to display the
+          quick keys area.
+ 2.  Tap the Alarm Reset  quick key.

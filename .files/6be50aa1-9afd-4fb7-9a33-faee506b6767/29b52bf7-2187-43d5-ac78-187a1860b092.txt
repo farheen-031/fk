@@ -1,0 +1,30 @@
+P/N: H-046-007060-00 Rev 4.0
+14
+BeneVision TD60 Quick Reference Guide
+NIBP  (OPTIONAL)
+The TD60 allows non-invasive blood pressure (NIBP) monitored by a BP10 NIBP 
+module.
+Pair a TD60 with a BP10
+ 1.  Press the MPAN key on the right panel of the BP10. The“Pairing... ”     
+          message will display in the message area of the BP10.
+ 2.   Press  to enter the main menu.
+ 3.   Tap Wireless Modules.
+     4.   Enable MPAN .
+           The TD60 starts searching the BP10 devices in the vicinity and                     
+    displays the devices that can be connected under Devices. Make sure  
+       that the device you wish to connect appears in the list of devices. If not,  
+        repeat Steps 1 to 4.
+    5.   In the list of devices, select your desired device and tap Connect. Once  
+          the device is connected successfully, the status will be changed from    
+          Disconnect  to Connected .
+    6.   Tap anywhere in the NIBP digital area on the  main screen to access the  
+          NIBP  menu.
+    7.   Tap Start  to start NIBP measurement. Verify that the NIBP measurement  
+  results displayed at the BP10 are consistent with that displayed on the  
+      main screen of the TD60 and are the data for the same patient.
+Pair a TD60 with a New BP10
+ 1.  Unpair the TD60 with the BP10 already connected by following steps in  
+      Unpair a TD60 with a BP10 via the TD60 or  Unpair a TD60 with a   
+  BP10 via the BP10 .
+ 2.   Pair the TD60 with your desired BP10 by following steps in Pairing a  
+           TD60 with a BP10.

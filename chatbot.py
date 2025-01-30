@@ -31,18 +31,12 @@ class PDFQnAPipeline:
         print("Loading and chunking the PDF...")
         loader = PyPDFLoader(self.pdf_path)
         documents = loader.load()
- 
-        # Adjusting the chunk size based on the PDF size (in MB)
-        pdf_size_mb = os.path.getsize(self.pdf_path) / (1024 * 1024)  # Get file size in MB
-        chunk_size = 2000 if pdf_size_mb <= 20 else (4000 if pdf_size_mb <= 50 else 6000)  # Adjust chunk size for larger PDFs
- 
         text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=chunk_size,
+            chunk_size=2000,
             chunk_overlap=200
         )
- 
         return text_splitter.split_documents(documents)
-   
+ 
     def store_embeddings_in_chroma(self, docs):
         print("Storing embeddings in Chroma vector database...")
         embeddings = GoogleGenerativeAIEmbeddings(
@@ -88,8 +82,8 @@ async def on_chat_start():
         pdf_file = await cl.AskFileMessage(
             content="Please upload a PDF file to begin!",
             accept=["application/pdf"],
-            max_size_mb=100,  # Increase allowed file size to 100MB
-            timeout=180,  # Keep the timeout as-is, or adjust as necessary
+            max_size_mb=20,
+            timeout=180,
         ).send()
     pdf_path = pdf_file[0].path
     pipeline = PDFQnAPipeline(pdf_path)
@@ -98,7 +92,7 @@ async def on_chat_start():
     pipeline.store_embeddings_in_chroma(split_docs)
     pipeline.create_retriever_and_llm()
     # Inform the user that the system is ready
-    await cl.Message(content=f"Processing {pdf_file[0].name} complete. You can now ask questions!").send()
+    await cl.Message(content=f"Processing `{pdf_file[0].name}` complete. You can now ask questions!").send()
     # Store the pipeline and chain for later use
     cl.user_session.set("pipeline", pipeline)
     cl.user_session.set("retrieval_qa_chain", pipeline.retrieval_qa_chain)

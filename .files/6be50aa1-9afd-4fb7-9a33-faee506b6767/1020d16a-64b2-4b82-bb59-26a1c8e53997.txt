@@ -1,0 +1,26 @@
+P/N: H-046-007060-00 Rev 4.0
+10
+BeneVision TD60 Quick Reference Guide
+The Lead Placement window indicates the lead status.
+  When any of the leads are off, the indications are as follows:
+• The lead off message displays on the information bar.
+          The background color of the information bar corresponds to the alarm 
+          level.
+• A flashing circle indicates the disconnected lead.
+          The color of the flashing circle is based on the alarm level.
+Enable Pacer
+The TD60 allows the clinician to enable pacemaker detection. The 
+  symbol 
+displays in the waveform area on the CMS when the pacemaker detection in 
+enabled.
+To enable the pacemaker detection on the TD60:
+• On the main screen, select the HR digital area or ECG waveform area to 
+          enter the ECG  menu .
+OR
+ 1.  Press  to enter the main menu .
+ 2.  Tap Patient Info .
+ 3.  Tap Paced  to enable Pacer by selecting Yes .
+ 4.  Press   to return to the main screen .
+Information bar
+Lead off indicator
+Lead on indicator
