@@ -1,4 +1,11 @@
+__import__('pysqlite3')
+import pysqlite3
+
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import os
+import sqlite3
+
 import time
 from langchain.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
