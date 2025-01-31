@@ -1,0 +1,11 @@
+P/N: H-046-007060-00 Rev 4.0
+12
+BeneVision TD60 Quick Reference Guide
+SpO 2  (OPTIONAL)
+The TD60 allows continuous pulse oximetry.
+Connect the SpO2 Module
+Connect the SpO 2  module to the TD60 as shown in the following figure.
+Connecting the Masimo SpO 2  module
+SpO 2  module
+SpO 2  sensor connector
+SpO 2  sensor

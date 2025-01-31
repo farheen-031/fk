@@ -1,0 +1,25 @@
+P/N: H-046-007060-00 Rev 4.0
+8
+BeneVision TD60 Quick Reference Guide
+Resume Monitoring
+• Restores patient's settings, resumes alarm notification on the TD60 and
+          the CMS .
+• Alarm system is activated.
+• The TD60 notifies the CMS of returning to Monitoring mode.
+To exit Standby mode:
+Press   to exit Standby mode.
+PRINTING
+The clinician is able to print a strip from the TD60 to the CMS. 
+To print a strip: 
+Select Print from the quick key area or Command  section in the main menu.
+NURSE CALL
+Activate a Nurse Call
+Press  to activate a nurse call request to the CMS. The alarm light/indicator 
+will flash cyan, and a “Nurse Call Initiated” message will display in the message 
+area if the display is active.
+Acknowledge the Nurse Call
+The clinician can acknowledge the nurse call on the TD60.  
+To acknowledge the nurse call alarm:
+ 1.  Press  to enter the main menu .
+ 2.  Tap Attendant Present .
+          The “Nurse Call Cancelled” message will display in the message area .

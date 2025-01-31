@@ -1,0 +1,20 @@
+P/N: H-046-007060-00 Rev 4.0
+11
+BeneVision TD60 Quick Reference Guide
+RESP  (OPTIONAL)
+Set NCM Alarm Delay
+The TD60 allows configuring the desired time for NCM Alarm Delay.  When  
+the patient has stopped breathing for longer than the set NCM Alarm Delay 
+time, the TD60 will trigger the "No Chest Movement" alarm. 
+To set NCM Alarm Delay:
+• On the main screen, tap the Resp digital area or Resp waveform area to
+          enter the Resp menu .
+OR
+ 1.  Press  to enter the main menu .
+ 2. Tap Parameter Setup.
+ 3. Tap Resp.
+ 4. Set NCM Alarm Delay.
+Note: The "No Chest Movement" alarm is displayed on the Central Monitoring 
+System only. 
+Note: The Resp functionality for the TMS60 telemetry monitoring system is 
+available at the CMS whose version is 03.00 and above only.

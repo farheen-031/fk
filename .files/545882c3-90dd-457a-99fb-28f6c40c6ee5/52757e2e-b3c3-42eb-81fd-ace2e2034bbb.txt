@@ -1,0 +1,31 @@
+P/N: H-046-007060-00 Rev 4.0
+9
+BeneVision TD60 Quick Reference Guide
+ECG 
+Select ECG Leadwire
+The TD60 allows the clinician to set the ECG Leadwire Type being used. To 
+configure the ECG Leadwire Type:
+• On the main screen, tap the HR digital area or ECG waveform area to
+          enter the ECG menu .
+OR
+ 1.  Press  to enter the main menu .
+ 2. Tap Parameter Setup.
+ 3. Tap ECG.
+ 4. Select Cable Type.
+  5. Select
+• Auto: the device automatically sets the leadwire type according to the 
+              leads connected .
+• 3 Lead: to select 3-leadwire set
+              If the leadwire type is set to 3-lead, the Smart Lead option becomes
+              Monitored Lead. The clinician can select the preferred lead from the
+              Monitored Lead.
+• 5 Lead: to select 5-leadwire set
+              All ECG leads display on the main screen .
+ 6. Press   to return to the main screen .
+Lead Placement
+The TD60 Lead Placement menu allows the clinician to check the ECG Lead 
+Status and troubleshoot Lead Fault messages. To enter the Lead Placement 
+menu:
+• Tap the lead off message on the main screen .
+OR
+• Press  to enter the main menu, and then tap Lead Placement.

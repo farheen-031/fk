@@ -1,0 +1,6 @@
+P/N: H-046-007060-00 Rev 4.0
+10
+BeneVision TD60 Quick Reference Guide
+The Lead Placement window indicates the lead status.
+  When any of the leads are off, the indications are as follows:
+• The lead o

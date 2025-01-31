@@ -1,0 +1,6 @@
+P/N: H-046-007060-00 Rev 4.0
+16
+BeneVision TD60 Quick Reference Guide
+After the alarm system is reset, depending upon the system configuration, the 
+alarm system responds as follows:
+ For the technica

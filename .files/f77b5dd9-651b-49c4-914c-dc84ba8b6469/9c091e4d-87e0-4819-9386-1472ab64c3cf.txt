@@ -1,0 +1,31 @@
+P/N: H-046-007060-00 Rev 4.0
+6
+BeneVision TD60 Quick Reference Guide
+PATIENT SETUP
+Admit
+When admitting a TD60 for the first time, the device must be admitted to the 
+system through the CMS. 
+After first admitting the device to the CMS, you can directly admit the next 
+patient on the TD60 by discharging the previous patient, and then pressing  
+to admit a new patient.
+Discharge
+Discharging the patient will stop monitoring, clear patient information, and 
+restore default (preset) settings on the T D6 0.
+A patient can be discharged by selecting the Discharge Patient menu, and 
+then selecting that a new patient is on the TD60.
+Note: Discharging the patient on the TD60 discharges the patient from the 
+CMS.
+Select the Discharge Patient  menu
+ 1. Press   to enter the main menu.
+ 2.  Tap Discharge Patient.
+ 3.  Select Yes.
+• The patient is discharged from both the TD60 and the CMS .
+• The patient's configuration is cleared and the configuration is restored
+              to the saved user configuration or factory default configuration .
+• The patient will be added to the discharged patients  list at the CMS .
+ 4.  Press   to admit a new patient .
+Adjust Patient Category
+The Patient Info menu allows the clinician to adjust the patient category. 
+Note: Ensure the patient category selection is appropriate for the patient 
+before monitoring begins. The supported patient categories are Adult
+and Pediatric.

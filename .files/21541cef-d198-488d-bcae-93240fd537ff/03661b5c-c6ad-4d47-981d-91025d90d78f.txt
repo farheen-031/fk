@@ -1,0 +1,30 @@
+P/N: H-046-007060-00 Rev 4.0
+7
+BeneVision TD60 Quick Reference Guide
+To adjust the patient category: 
+ 1. Press   to enter the main menu .
+ 2.  Tap Patient Info .
+ 3.  Tap Patient Category  to select the patient category .
+ 4.  Select Yes  to confirm that the patient category should be changed
+    The selected patient category displays to the right of Patient Category .
+ 5.  Press   to return to the main screen .
+Note:  The patient category can only be changed on the TD60.
+Note:  Adjusting patient category restores the TD60 to the default (preset)
+settings but does not clear patient information or data.
+Note:  When the device is connected to the CMS, the patient
+category at the CMS is updated if the patient category is changed
+on the TD60.
+STANDBY
+Enter Standby
+Placing a device into Standby:
+• Suspends patient monitoring.
+• Alarms are suspended.
+• Displays Standby  on the screen.
+• The screen display automatically turns off after the device enters the 
+          Standby mode for 30 seconds.
+Note:  When connected to the CMS, and a device enters or exits Standby mode, 
+the CMS is also notified to enter or exit Standby mode.
+        To enter Standby mode:
+        1. Press   to enter the main menu .
+        2.  Tap Standby .
+        3.  Select Yes to confirm the device should enter Standby mode .

@@ -1,0 +1,28 @@
+P/N: H-046-007060-00 Rev 4.0
+1
+BeneVision TD60 Quick Reference Guide
+TD60 PHYSICAL VIEW
+1.   Display Activation (Power On/Off ) key
+  When the TD60 is powered off
+• Pressing this key will turn the TD60 on.
+  When the TD60 is powered on
+• And the screen display is on, pressing this key will turn the display off.
+• And the screen display is off, pressing this key will turn the display on.
+• Press and hold this key for two seconds to display the power off
+          confirmation menu.
+ 2.   Nurse Call key
+      Nurse call key activates nurse call message at the CMS.
+3.   Main Menu key
+• Pressing this key when on the main screen will open the main menu.
+• Pressing this key when a menu is open will return to the main screen.
+• Pressing this key when the display is off will turn the display on.
+• Pressing this key when the screen lock mode is configured for View Only
+          will display the Screen Locked menu.
+5
+4
+3
+1 2
+6 8
+7
+9
+10

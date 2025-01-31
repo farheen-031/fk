@@ -1,0 +1,18 @@
+P/N: H-046-007060-00 Rev 4.0
+13
+BeneVision TD60 Quick Reference Guide
+Connecting the Nellcor SpO 2  module
+Initiate the SpO 2  Measurement
+ 1.  Connect the sensor to the SpO 2  module and the SpO 2  module to the 
+          TD60.
+ 2.  Select an appropriate sensor according to the patient size, and weight.
+ 3.  Prepare the SpO 2  site in accordance with hospital policy.
+ 3.  Apply the sensor to the patient.
+          The SpO 2  measurement will display when the SpO 2  module acquires a
+          signal from the patient .
+NELL
+CO
+R
+SpO 2  module
+SpO 2  sensor connector
+SpO 2  sensor

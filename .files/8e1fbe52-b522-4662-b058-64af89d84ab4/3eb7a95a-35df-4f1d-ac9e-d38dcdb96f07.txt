@@ -1,0 +1,15 @@
+P/N: H-046-007060-00 Rev 4.0
+2
+BeneVision TD60 Quick Reference Guide
+4.   Display
+      Touch screen display for viewing patient information and adjusting patient
+      settings.
+5.   Patient alarm light indicator
+6.   ECG lead connector
+7.   SpO 2  cap
+      Covers SpO 2  connector when SpO 2  is not in use.
+8.   SpO 2  connector
+      Connects the SpO 2  module.
+9.   Speaker
+10. Battery compartment
+      Contains the lithium-ion battery pack or AA battery tray.
